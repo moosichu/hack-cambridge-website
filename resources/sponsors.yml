@@ -70,6 +70,7 @@ sponsors:
       website: https://www.citrix.com/
       logo: citrix-logo.svg
       variant: wide
+
   kilo:
     - name: Jane Street
       website: https://www.janestreet.com/
@@ -78,6 +79,10 @@ sponsors:
     - name: Google
       website: https://www.google.com/about/careers/
       logo: google-logo.svg
+      variant: wide
+    - name: .Tech Domains
+      website: http://get.tech/
+      logo: techdomain-logo.svg
       variant: wide
     - name: Softwire
       website: http://www.softwire.com/
